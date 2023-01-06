@@ -1,0 +1,1 @@
+You need to run WinFix.bat as administrator
